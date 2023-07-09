@@ -1,5 +1,5 @@
 # Hi, I am RuralNative
-## Engineering with CODE
+**Engineering with CODE**
 
 ## Why I Develop
 * To turn **IDEAS TO REALITY**
