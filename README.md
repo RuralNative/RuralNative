@@ -1,5 +1,15 @@
-Hello, everyone 💜
+# Hi, I am RuralNative
+## Engineering with CODE
 
-Wish to improve on your skills as a software developer?
+## Why I Develop
+* To turn **IDEAS TO REALITY**
+* To be able to build **SOLUTIONS** to real-life problems
+* To work on a passion I loved since childhood - **ENGINEERING**
 
-This repository contains PDF files of some of the countless books you can find that tackles the goal of teaching software developers young and old a variety of topics related to software development. 
+## What I (CURRENTLY) Develop
+* Android application for teaching Filipino Sign Language, bridging the communication gap between PWD and us
+
+## Who am I
+*  Just an ordinary rural-loving native who wish to leave a good impact to people with my own projects.
+
+If you are same to me, check my account. 
