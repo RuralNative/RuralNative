@@ -1,15 +1,29 @@
-# Hi, I am RuralNative
-**An Android/Machine Learning developer adept in Java and Python**
+# RuralNative
+**Android Developer (Kotlin/Jetpack Compose) | Full-stack Java Developer **
 
-## Why I Develop
-* To turn **IDEAS TO REALITY**
-* To be able to build **SOLUTIONS** to real-life problems
-* To work on a passion I loved since childhood - **ENGINEERING**
+## My Personal WHY
+A passionate software engineer, driven with a strong desire in creating effective software solutions and turning ideas into reality with the power of code. 
 
-## What I (CURRENTLY) Develop
-* Android application for teaching Filipino Sign Language, bridging the communication gap between PWD and us
+## My Personal PROJECTS
+Personal projects I proudly built or are currently developing are the following:
+- Android-based application serving as a tutorial for Filipino Sign Language
+- Jupyter-based reference for learning the basics of Machine Learning and Deep Learning through hands-on application
+- Local-hosted web application for Library Attendance Management with HTML, CSS, JavaScript, and PHP
+- Full-stack website built on Java Spring Boot for SPED School Website
 
-## Who am I
-*  Just an ordinary rural-loving native who wish to leave a good impact to people with my own projects.
+## My SKILLSET
+* Android Development (Jetpack Compose)
+* Apache Kafka
+* Clean Code Principles
+* Git Version Control
+* Java 11
+* Java Spring Boot
+* Kotlin
+* SQL Database Management
 
-If you are same to me, check my account. 
+## Well, WHO am I
+Just an ordinary motorcycle-loving person who wish to leave a good impact to people through reliably engineered and robust software solutions.
+If you are same to me, you may contact me through the following:
+- **E-mail**: jbleonor@outlook.com
+- **Facebook**: [John Berlin Vergara Leonor](https://www.facebook.com/jb.leonor.2001)
+- **LinkedIn**: [John Berlin Vergara Leonor](https://www.linkedin.com/in/johnberlinleonor/)  
