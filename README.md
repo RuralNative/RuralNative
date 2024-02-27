@@ -1,5 +1,5 @@
 # RuralNative
-**Android Developer (Kotlin/Jetpack Compose) | Full-stack Java Developer **
+**Android Developer (Kotlin/Jetpack Compose) | Full-stack Java Developer**
 
 ## My Personal WHY
 A passionate software engineer, driven with a strong desire in creating effective software solutions and turning ideas into reality with the power of code. 
