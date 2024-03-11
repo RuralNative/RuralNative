@@ -1,5 +1,5 @@
 # RuralNative
-**Android Developer (Kotlin/Jetpack Compose) | Full-stack Java Developer**
+**Engineering Solutions - One Line at a Time**
 
 ## My Personal WHY
 A passionate software engineer, driven with a strong desire in creating effective software solutions and turning ideas into reality with the power of code. 
@@ -27,9 +27,6 @@ If you are same to me, you may contact me through the following:
 - **E-mail**: jbleonor@outlook.com
 - **Facebook**: [John Berlin Vergara Leonor](https://www.facebook.com/jb.leonor.2001)
 - **LinkedIn**: [John Berlin Vergara Leonor](https://www.linkedin.com/in/johnberlinleonor/)
-
-<h1 align="center">Hi 👋, I'm John Berlin Leonor</h1>
-<h3 align="center">Engineering solutions - one line at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruralnative&label=Profile%20views&color=0e75b6&style=flat" alt="ruralnative" /> </p>
 
