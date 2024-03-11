@@ -12,17 +12,11 @@ Personal projects I proudly built or are currently developing are the following:
 - 👨‍💻 eBoto - a pure Java web application facilitating elections for our University student organization elections
 
 ## Personal Skillset
-* Java
-* Kotlin
-* PHP
-* Vaadin Flow Framework
-* Spring Boot
-* Apache Kafka
-* Android Development (Jetpack Compose)
-* TensorFlow
-* MySQL Database
-* PostgreSQL Database
-* SQLite
+**Programming Languages**: [![My Skills](https://skillicons.dev/icons?i=java,kotlin,php)](https://skillicons.dev)
+**Backend Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring, kafka)](https://skillicons.dev)
+**Mobile Development**: [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+**AI/ML**: [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+**Database**: [![My Skills](https://skillicons.dev/icons?i=sqlite, postgres)](https://skillicons.dev)
 
 ## Contacts
 - **E-mail**: jbleonor@outlook.com
