@@ -14,15 +14,7 @@ Personal projects I proudly built or are currently developing are the following:
 
 ## Personal Skillset
 
-**Programming Languages**: [![My Skills](https://skillicons.dev/icons?i=java,kotlin,php)](https://skillicons.dev)
-
-**Backend Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring,kafka)](https://skillicons.dev)
-
-**Mobile Development**: [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-
-**AI/ML**: [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
-
-**Database**: [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,spring,kafka,androidstudio,tensorflow,sqlite,postgres&theme=light)](https://skillicons.dev)
 
 ## Contacts
 - **E-mail**: jbleonor@outlook.com
