@@ -8,8 +8,8 @@ An aspiring software engineer who believes that adding value in a community thro
 # Personal Projects
 
 Personal projects I proudly built or are currently developing are the following:
-- 👨‍💻 QLib - PHP-based web application locally hosted assisting our University Library manage student use of its facilities
-- 👨‍💻 Handsy - a mobile app that teaches Filipino Sign Language with the help of AI under development
+- 👨‍💻 Qttendance - PHP-based web application locally hosted for convenient attendance monitoring for organizations currently used by CPSU - Moises Padilla and San Isidro Academy
+- 👨‍💻 Handsy - a close-sourced mobile app that teaches Filipino Sign Language with the help of AI submitted for AppCon 2024
 
 ## Personal Skillset
 
