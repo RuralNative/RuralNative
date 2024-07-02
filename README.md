@@ -16,7 +16,6 @@ Personal projects I proudly built or are currently developing are the following:
 ## Android-based Projects
 
 - 👨‍💻 Handsy - an Android-based mobile application that teaches Filipino Sign Language with the help of AI submitted for AppCon 2024
-- 👨‍💻 Jettison - an Android-based mobile application that detects the presence and location of objects within an image or video through Artificial Intelligence.
 
 ## Personal Skillset
 
