@@ -19,7 +19,7 @@ Personal projects I proudly built or are currently developing are the following:
 
 ## Personal Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,androidstudio,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,java,kotlin,androidstudio,spring,sqlite&theme=light&perline=5)](https://skillicons.dev)
 
 ## Contacts
 - **E-mail**: jbleonor@outlook.com
