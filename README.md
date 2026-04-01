@@ -1,29 +1,42 @@
-# Hi, I'm John Berlin Leonor
-**Engineering Solutions - One Line at a Time**
+# John Berlin Leonor | Managing Director, RuralNative 🌿
 
-An aspiring software engineer who believes that adding value in a community through effective software solutions is of greater priority than simply cramming endless "trendy" technologies and frameworks to a project.
+### SEO/GEO Expert & Web Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruralnative&label=Profile%20views&color=0e75b6&style=flat" alt="ruralnative" /> </p>
+I build high-performance websites and search strategies designed to generate leads and increase revenue.
 
-# Personal Projects
+## Core Services
 
-Personal projects I proudly built or are currently developing are the following:
+- Adaptive Search Visibility: Optimization for Google, Bing, and AI search engines (ChatGPT, Gemini, Perplexity).
+- Technical Performance: Guaranteed 80+ PageSpeed scores and Core Web Vitals pass for mobile.
+- Business Partnership: Outcome-focused development and SEO strategies aligned with ROI and lead generation.
 
-## PHP Projects
+## Tech Stack & Tools
 
-- 👨‍💻 Qttendance - PHP-based web application locally hosted for convenient attendance monitoring for organizations currently used by CPSU - Moises Padilla and San Isidro Academy
+- Development: React, Next.js, WordPress (Greenshift, Kadence).
+- Search: Schema Markup, Technical SEO, Topic Clusters, AI Readiness.
+- Infrastructure: Vercel, GitHub, Cloudflare, Litespeed.
+- Analytics: Google Search Console, GA4, Ahrefs, Ubersuggest.
 
-## Android-based Projects
+## Featured Project: Searcher Insights
 
-- 👨‍💻 Handsy - an Android-based mobile application that teaches Filipino Sign Language with the help of AI submitted for AppCon 2024
+Developed a lead generation engine for the US-based Search Fund community.
 
-## Personal Skillset
+- Reach: 35,000+ Monthly.
+- Rank: #9.0 Average position across target queries.
+- Traffic: Verified organic and AI referral growth (ChatGPT).
+- Impact: Primary lead generation tool for the Sleyster Family Office.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,java,kotlin,androidstudio,spring,sqlite&theme=light&perline=5)](https://skillicons.dev)
+## Applied Research & Operations
 
-## Contacts
-- **E-mail**: jbleonor@outlook.com
-- **Website**: [Personal Website](johnberlinleonor.wordpress.com)
-- **Facebook**: [John Berlin Vergara Leonor](https://www.facebook.com/jb.leonor.2001)
-- **LinkedIn**: [John Berlin Vergara Leonor](https://www.linkedin.com/in/johnberlinleonor/)
-- **Medium**: [RuralNative](https://medium.com/@johnberlinvergaraleonor)
+- Handsy (AI Research): Lead Researcher/Co-Author for an AI-powered sign language mobile app (ICTSM 2025).
+- Qttendance (Local Infrastructure): PHP-based logic currently optimizing attendance monitoring for regional educational institutions.
+- Tech Academy (Strategic Guidance): Former Job Placement Director, overseeing the technical portfolio development for 30+ software engineers.
+
+## Consult with RuralNative
+
+- Personal Website: [RuralNative.io](https://ruralnative.io/)
+- LinkedIn Profile: <https://www.linkedin.com/in/johnberlinleonor/>
+- WhatsApp: [+63 992 565 4626](tel:+639925654626)
+- Email: <john@ruralnative.io>
+
+"Search has evolved. Is your brand healthy enough to lead?"
